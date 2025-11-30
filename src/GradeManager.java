@@ -39,7 +39,7 @@ public class GradeManager
     }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int numMarks = 0;
+        int numMarks;
 
         // 1. Get the number of marks using basic error handling (try-catch)
         System.out.print("Enter the number of marks you will input: ");
