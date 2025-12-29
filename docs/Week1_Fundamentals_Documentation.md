@@ -13,7 +13,7 @@ The objective of this project was to establish a strong foundation in Java synta
 ## 2. Setup and Installation Instructions
 1. **JDK Version:** Developed using JDK 11+.
 2. **IDE:** Project can be opened in IntelliJ IDEA or Eclipse.
-3. **Execution:** Run the `Main.java` file. Enter data into the console when prompted by the program.
+3. **Execution:** Run the `GradeManager.java` file. Enter data into the console when prompted by the program.
 
 ---
 
