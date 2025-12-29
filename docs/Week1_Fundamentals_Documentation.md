@@ -53,4 +53,4 @@ The program follows a linear execution path:
 ![Logic Diagram](https://github.com/adityabliss25/Grade-Manager-System/blob/master/docs/images/UML%20Class%20Diagram%20-%20Grade%20Manager%20System.png)
 
 ### Console Execution
-![Week 1 Output]((https://github.com/adityabliss25/Grade-Manager-System/blob/master/docs/images/Console%20Output.png))
+![Week 1 Output](https://github.com/adityabliss25/Grade-Manager-System/blob/master/docs/images/Console%20Output.png)
