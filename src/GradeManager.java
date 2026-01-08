@@ -28,9 +28,11 @@ public class GradeManager
         if (average >= 90) {
             grade = "A (Excellent)";
         } else if (average >= 80) {
-            grade = "B (Good)";
+            grade = "B (Very Good)";
         } else if (average >= 70) {
-            grade = "C (Satisfactory)";
+            grade = "C (Good)";
+          else if (average >= 60) {
+            grade = "D (Good)";
         } else {
             grade = "F (Failing)";
         }
