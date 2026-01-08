@@ -1,7 +1,7 @@
-# ☕ Week 1: Java Fundamentals - Grade Manager System
+#  Student Grade Management System Documentation
 
 ## 1. Project Overview and Objectives
-The objective of this project was to establish a strong foundation in Java syntax and logic. This project demonstrates the ability to handle user input, perform mathematical calculations, and use conditional logic to drive a program.
+The objective of this project was to move beyond simple variable storage and implement Control Flow and Arrays to manage a collection of academic data. This system allows a user to manage marks for multiple students across various subjects and generate analytical performance reports.
 
 ### Technical Requirements Met
 * **Primitive Data Types:** Used `int`, `double`, and `String` to manage data effectively.
@@ -25,6 +25,9 @@ The program is structured within a single main class to demonstrate procedural l
 | **Scanner Input** | Captures user data (e.g., Student Names, Marks, or Numbers). |
 | **Logic Engine** | Processes the input (e.g., calculating averages or performing arithmetic). |
 | **Output Formatter** | Displays the final result to the user in a clean, readable format. |
+
+Grading Criteria
+The system automatically assigns categories based on the calculated average:A: $\ge 90\%$ (Excellent)B: $80\% - 89\%$ (Very Good)C: $70\% - 79\%$ (Good)D: $60\% - 69\%$ (Satisfactory)F: $< 60\%$ (Fail)
 
 ---
 
@@ -53,4 +56,4 @@ The program follows a linear execution path:
 ![Logic Diagram](https://github.com/adityabliss25/Grade-Manager-System/blob/master/docs/images/UML%20Class%20Diagram%20-%20Grade%20Manager%20System.png)
 
 ### Console Execution
-![Week 1 Output](https://github.com/adityabliss25/Grade-Manager-System/blob/master/docs/images/Console%20Output.png)
+![Output](https://github.com/adityabliss25/Grade-Manager-System/blob/master/docs/images/Console%20Output.png)
